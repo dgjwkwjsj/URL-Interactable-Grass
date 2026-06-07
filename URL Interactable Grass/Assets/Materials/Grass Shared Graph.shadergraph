@@ -884,8 +884,8 @@
     "m_ObjectId": "0a352462aa8645e7a485b5ca421a0e79",
     "m_Title": "New Group",
     "m_Position": {
-        "x": -2696.800048828125,
-        "y": -336.0001220703125
+        "x": -2696.7998046875,
+        "y": -336.0
     }
 }
 
@@ -3805,7 +3805,7 @@
         "location"
     ],
     "m_Precision": 1,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 2,
     "m_CustomColors": {
@@ -3977,7 +3977,7 @@
     "m_Title": "Displacement",
     "m_Position": {
         "x": -1350.4000244140625,
-        "y": 807.9996337890625
+        "y": 808.0
     }
 }
 
